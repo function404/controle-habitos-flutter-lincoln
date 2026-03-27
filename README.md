@@ -41,7 +41,7 @@ Siga os passos abaixo para testar o aplicativo em sua máquina local:
  
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/function404/controle-habitos-flutter-lincoln.git
+git clone git@github.com:function404/controle-habitos-flutter-lincoln.git
 ```
  
 2. **Entre na pasta do projeto:**
