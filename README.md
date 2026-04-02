@@ -46,7 +46,7 @@ git clone git@github.com:function404/controle-habitos-flutter-lincoln.git
  
 2. **Entre na pasta do projeto:**
 ```bash
-cd seu-repositorio
+cd controle-habitos-flutter-lincoln
 ```
  
 3. **Instale as dependências:**
